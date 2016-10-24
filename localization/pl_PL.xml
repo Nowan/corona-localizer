@@ -1,0 +1,5 @@
+<culture code="pl-PL">
+	<someText>jakiś tekst</someText><!-- You can also add some description if need be -->
+	<mainMenu>Menu głowne</mainMenu><!-- You can also add some description if need be -->
+	<play>Gra</play><!-- You can also add some description if need be -->
+</culture>

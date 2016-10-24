@@ -1,0 +1,5 @@
+<culture code="en-US">
+	<someText>some text</someText><!-- You can also add some description if need be -->
+	<mainMenu>Main menu</mainMenu><!-- You can also add some description if need be -->
+	<play>Play</play><!-- You can also add some description if need be -->
+</culture>

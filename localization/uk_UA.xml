@@ -1,0 +1,5 @@
+<culture code="uk-UA">
+	<someText>Якийсь текст</someText><!-- You can also add some description if need be -->
+	<mainMenu>Головне меню</mainMenu><!-- You can also add some description if need be -->
+	<play>Гра</play><!-- You can also add some description if need be -->
+</culture>
